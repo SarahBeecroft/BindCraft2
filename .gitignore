@@ -50,3 +50,5 @@ Thumbs.db
 
 # Anything created by Claude
 .claude/
+containers/rocm_fanout.py
+containers/bindcraft-setonix.slurm
